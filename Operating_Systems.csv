@@ -1,10 +1,10 @@
 Windows,OS X,Mac OS X ,macOS,Linux,Chrome
 Windows Vista,OS X 10.7 ,Mac OS X 10.0,macOS 10.12,Linux Fedora,Chrome OS
-Windows 2000,OS X 10.8,Mac OS X 10.1,macOS 10.13,Linux Debian,
-Windows Xp,OS X 10.9,Mac OS X 10.2,macOS 10.14,Linux Ubuntu,
-Windows 7,OS X 10.10,Mac OS X 10.3,macOS 10.15,Arch Linux,
-Windows 8,OS X 10.11,Mac OS X 10.4,macOS 11.0,Manjaro Linux,
-Windows 8.1,,Mac OS X 10.5,macOS 12.0,,
-Windows 9,Mac OS X 10.6,
-Windows 10,
-Windows 11,
+Windows 2000,OS X 10.8,Mac OS X 10.1,macOS 10.13,Linux Debian,N/A
+Windows Xp,OS X 10.9,Mac OS X 10.2,macOS 10.14,Linux Ubuntu,N/A
+Windows 7,OS X 10.10,Mac OS X 10.3,macOS 10.15,Arch Linux,N/A
+Windows 8,OS X 10.11,Mac OS X 10.4,macOS 11.0,Manjaro Linux,N/A
+Windows 8.1,Mac OS X 10.6,Mac OS X 10.5,macOS 12.0,N/A,N/A
+Windows 9,N/A,N/A,N/A,N/A,N/A
+Windows 10,N/A,N/A,N/A,N/A,N/A
+Windows 11,N/A,N/A,N/A,N/A,N/A
